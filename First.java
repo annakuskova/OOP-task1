@@ -39,10 +39,10 @@ public class First {
             return "subtracted";
         }
         else if (a*b == N) {
-            return "multipled"
+            return "multipled";
         }
         else if (a/b == N) {
-            return "splitted"
+            return "splitted";
         }
         else return "none";
     }
